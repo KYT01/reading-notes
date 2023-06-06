@@ -28,7 +28,7 @@ You can view my GitHub Repositories [HERE](https://github.com/KYT01)
 
 #### Code 102 Reading Notes
 
-- [01](https://raw.githubusercontent.com/KYT01/reading-notes/main/102/01.md)
+- [01](/102/01.md)
 - [02]()
 - [03]()
 - [04]()
