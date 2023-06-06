@@ -16,7 +16,7 @@ You can view my GitHub Repositories [HERE](https://github.com/KYT01)
 
 #### Growth Mindset
 
-> A growth mindset is a believing that through enough practice and work, you will be able to not only improve your own skills but also learn new ones.
+> A growth mindset is a belief that through enough practice and work, you will be able to not only improve your own skills but also learn new ones.
 
 - Try and learn something new every week.
 - Practice coding outside of learning hours.
