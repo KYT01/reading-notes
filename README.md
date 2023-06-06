@@ -29,7 +29,7 @@ You can view my GitHub Repositories [HERE](https://github.com/KYT01)
 
 ## 102
 
-- [01](01.md)
+- [01](reading-notes/01.md)
 - [02]()
 - [03]()
 - [04]()
