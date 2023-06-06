@@ -34,3 +34,6 @@ Hi my name is Kumail and I am a digital designer looking to get into the tech in
 ![Profile Picture](file:///Users/kumail/Downloads/Untitled%20design.png)
 
 You can view my GitHub Repositories [HERE](https://github.com/KYT01)
+
+### Table Of Contents
+
