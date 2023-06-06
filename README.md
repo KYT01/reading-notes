@@ -11,6 +11,8 @@ Hi my name is Kumail and I am a digital designer looking to get into the tech in
 - Animation
 - Web Design
 
+You can view my GitHub Repositories [HERE](https://github.com/KYT01)
+
 ***
 
 #### Growth Mindset
@@ -20,12 +22,6 @@ Hi my name is Kumail and I am a digital designer looking to get into the tech in
 - Try and learn something new every week.
 - Practice coding outside of learning hours.
 - Look at how I can apply coding to my creative workflow.
-
-***
-
-![Profile Picture](file:///Users/kumail/Downloads/Untitled%20design.png)
-
-You can view my GitHub Repositories [HERE](https://github.com/KYT01)
 
 ***
 
