@@ -1,17 +1,9 @@
 # reading-notes
 ## Tech Ed Full Stack
 
-**Document Content**
-- Brief Intro
-- About
-- Growth Mindset
-- New Pages
-
 #### Brief Intro
 
 Hi my name is Kumail and I am a digital designer looking to get into the tech industry and gain some coding experience through Tech Ed.
-
-***
 
 #### About
 
@@ -35,8 +27,35 @@ Hi my name is Kumail and I am a digital designer looking to get into the tech in
 
 You can view my GitHub Repositories [HERE](https://github.com/KYT01)
 
+***
+
 ### Table Of Contents
 
 ## 102
 
-[01](https://github.com/KYT01/reading-notes/blob/main/102/01.md)
+- [01](https://raw.githubusercontent.com/KYT01/reading-notes/main/102/01.md)
+- [02]()
+- [03]()
+- [04]()
+- [05]()
+- [06]()
+- [07]()
+- [08]()
+
+## 201
+
+- [01]()
+- [02]()
+- [03]()
+- [04]()
+- [05]()
+- [06]()
+- [07]()
+- [08]()
+- [09]()
+- [10]()
+- [11]()
+- [12]()
+- [13]()
+- [14]()
+- [15]()
