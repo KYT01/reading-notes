@@ -1,4 +1,4 @@
-# reading-notes
+# Reading-Notes
 ## Tech Ed Full Stack
 
 #### Brief Intro
