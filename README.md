@@ -1,7 +1,7 @@
 # Reading-Notes
 ## Tech Ed Full Stack
 
-#### Brief Intro
+### Brief Intro
 
 Hi my name is Kumail and I am a digital designer looking to get into the tech industry and gain some coding experience through Tech Ed.
 
@@ -27,7 +27,7 @@ You can view my GitHub Repositories [HERE](https://github.com/KYT01)
 
 ### Table Of Contents
 
-## Code 102 Reading Notes
+#### Code 102 Reading Notes
 
 - [01](https://raw.githubusercontent.com/KYT01/reading-notes/main/102/01.md)
 - [02]()
@@ -38,7 +38,7 @@ You can view my GitHub Repositories [HERE](https://github.com/KYT01)
 - [07]()
 - [08]()
 
-## Code 201 Reading Notes
+#### Code 201 Reading Notes
 
 - [01]()
 - [02]()
