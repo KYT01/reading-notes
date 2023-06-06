@@ -39,4 +39,4 @@ You can view my GitHub Repositories [HERE](https://github.com/KYT01)
 
 ## 102
 
-[1]{https://github.com/KYT01/reading-notes/blob/main/102/1.md}
+[1]{https://raw.githubusercontent.com/KYT01/reading-notes/main/102/1.md}
