@@ -30,7 +30,7 @@ You can view my GitHub Repositories [HERE](https://github.com/KYT01)
 
 - [01](/102/01.md)
 - [02](/102/02.md)
-- [03](/103/3.md)
+- [03](/102/3.md)
 - [04]()
 - [05]()
 - [06]()
