@@ -28,12 +28,12 @@ You can view my GitHub Repositories [HERE](https://github.com/KYT01)
 
 #### Code 102 Reading Notes
 
-- [01](/102/01.md)
-- [02](/102/02.md)
-- [03](/102/3.md)
-- [04]()
-- [05]()
-- [06]()
+- [Learning markdown](/102/01.md)
+- [The coders computer](/102/02.md)
+- [Revisions and the cloud](/102/3.md)
+- [Structure web pages with HTML](/102/4.md)
+- [Design web pages with CSS](/102/5.md)
+- [Activate web pages with JavaScript](/102/6.md)
 - [07]()
 - [08]()
 
