@@ -33,7 +33,7 @@ You can view my GitHub Repositories [HERE](https://github.com/KYT01)
 - [Revisions and the cloud](/102/3.md)
 - [Structure web pages with HTML](/102/4.md)
 - [Design web pages with CSS](/102/5.md)
-- [Activate web pages with JavaScript](/102/6.md)
+- [Dynamic web pages with JavaScript](/102/6.md)
 - [07]()
 - [08]()
 
