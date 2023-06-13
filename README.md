@@ -40,7 +40,7 @@ You can view my GitHub Repositories [HERE](https://github.com/KYT01)
 #### Code 201 Reading Notes
 
 - [Introduction to HTML](/201/1.md)
-- [02]()
+- [02]()git
 - [03]()
 - [04]()
 - [05]()
