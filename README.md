@@ -34,12 +34,12 @@ You can view my GitHub Repositories [HERE](https://github.com/KYT01)
 - [Structure web pages with HTML](/102/4.md)
 - [Design web pages with CSS](/102/5.md)
 - [Dynamic web pages with JavaScript](/102/6.md)
-- [07]()
-- [08]()
+- [Programming with JavaScript](/102/7.md)
+- [Operators and Loops](/102/8.md)
 
 #### Code 201 Reading Notes
 
-- [01]()
+- [01](/201/1.md)
 - [02]()
 - [03]()
 - [04]()
