@@ -40,9 +40,9 @@ You can view my GitHub Repositories [HERE](https://github.com/KYT01)
 #### Code 201 Reading Notes
 
 - [Introduction to HTML](/201/1.md)
-- [02]()git
-- [03]()
-- [04]()
+- [Basics of HTML, CSS and JS](/201/2.md)
+- [HTML Lists, Control Flow with JS, and the CSS Box Model](/201/3.md)
+- [HTML Links, JS Functions, and Intro to CSS Layout](/201/4.md)
 - [05]()
 - [06]()
 - [07]()
