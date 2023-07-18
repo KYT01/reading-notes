@@ -58,3 +58,4 @@ You can view my GitHub Repositories [HERE](https://github.com/KYT01)
 #### Code 301 Reading Notes
 
 - [Introduction to React and Components](/301/01.md)
+- [State and Props](/301/02.md)
